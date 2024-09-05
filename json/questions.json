@@ -1,0 +1,6 @@
+data = [ 
+        {quest: "What was the name giving to the Temne King ? ", ans: {a: "Obai", b: "Lavai", c: "Ndo Mahee", d: "Kapr-Masim"}, correctAns: "a"},
+        {quest: "Who acted as the Regent in the Temne Kingdom ?", ans: {a: "Kapr-kuma", b: "Kapr-gbogboro", c: "Kapr-fenthe", d: "Kapr-masim"}, correctAns: "d"},
+        {quest: "Who was the minister of health in the temne kingdom ?", ans: {a: "kapr-soya", b: "kapr-loya", c: "kapr-kuma", d: "kapr-fenthe"}, correctAns: "d"},
+        {quest: "What is 2 + 2 ? ", ans: {a: "22", b: "2", c: "8", d: "4"}, correctAns: "d"}
+];
