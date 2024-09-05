@@ -7,9 +7,9 @@ const submtButton = document.getElementById("submit")
 let myQuestions = [
 
     {question: "What was the name giving to the Temne King ? ", answers: {a: "Obai", b: "Lavai", c: "Ndo Mahee", d: "Kapr-Masim"}, correctAns: "a"}
-    /* {question: "Who acted as the Regent in the Temne Kingdom ?", answers: {a: "Kapr-kuma", b: "Kapr-gbogboro", c: "Kapr-fenthe", d: "Kapr-masim"}, correctAns: "d"},
+    {question: "Who acted as the Regent in the Temne Kingdom ?", answers: {a: "Kapr-kuma", b: "Kapr-gbogboro", c: "Kapr-fenthe", d: "Kapr-masim"}, correctAns: "d"},
     {question: "Who was the minister of health in the temne kingdom ?", answers: {a: "kapr-soya", b: "kapr-loya", c: "kapr-kuma", d: "kapr-fenthe"}, correctAns: "d"},
-    {question: "What is 2 + 2 ? ", answers: {a: "22", b: "2", c: "8", d: "4"}, correctAns: "d"} */
+    {question: "What is 2 + 2 ? ", answers: {a: "22", b: "2", c: "8", d: "4"}, correctAns: "d"} 
 
 ] 
 
